@@ -1,0 +1,38 @@
+/* src/styles/Home.css */
+
+body {
+    background-color: #f0f8ff; /* Fondo azul claro */
+  }
+  
+  .header, .section-title {
+    color: #003366; /* Azul oscuro para títulos */
+  }
+  
+  .button-primary {
+    background-color: #0073e6; /* Botón primario en azul */
+    border-color: #005bb5;
+  }
+  
+  .button-primary:hover {
+    background-color: #005bb5;
+    border-color: #004494;
+  }
+  
+  .button-secondary {
+    background-color: #4da6ff; /* Botón secundario en azul claro */
+    border-color: #0073e6;
+  }
+  
+  .button-secondary:hover {
+    background-color: #3399ff;
+    border-color: #005bb5;
+  }
+  
+  .card-custom {
+    border: 1px solid #b3d1ff;
+  }
+  
+  .card-custom .card-title, .card-custom .card-text {
+    color: #003366; /* Texto en azul oscuro */
+  }
+  
